@@ -21,6 +21,7 @@ export default function Home() {
     
         <p className={styles.description}>
         Write in your email for a free PDF introduction to the easiest tool to help you get started meditating. 
+    </p>
 
 
         <div className={styles.grid}>
