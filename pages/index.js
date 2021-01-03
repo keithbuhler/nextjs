@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          21 Days to LESS STRESS {' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>Meditation is SCIENTIFICALLY PROVEN, TIME-TESTED, and FEELS GOOD.</p>
           </a>
 
           <a
