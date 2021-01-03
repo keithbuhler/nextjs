@@ -11,13 +11,17 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://GetStartedMeditate.com">Next.js!</a>
+          Welcome to <a href="https://GetStartedMeditate.com">Get Started! Meditate!</a>
         </h1>
 
         <p className={styles.description}>
           21 Days to LESS STRESS {' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}></code>
         </p>
+    
+        <p className={styles.description}>
+        Write in your email for a free PDF introduction to the easiest tool to help you get started meditating. 
+
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
